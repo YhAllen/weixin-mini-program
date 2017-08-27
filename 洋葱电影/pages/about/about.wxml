@@ -1,0 +1,20 @@
+<view class="weapp-about">
+    <view class="weapp-name">电影推荐</view>
+    <view class="webapp-intro">
+        <view class="webapp-intro-item">
+            <view class="webapp-intro-title">后端支持</view>
+            <view class="webapp-intro-content"></view>
+            <view class="webapp-intro-content">腾讯地图API：http://lbs.qqmap_wx_jssdk.com/</view>
+        </view>
+        <view class="webapp-intro-item">
+            <view class="webapp-intro-title">作者</view>
+            <view class="webapp-intro-content">杨辉</view>
+        </view>
+        <view class="webapp-intro-item">
+            <view class="webapp-intro-title">此项目所使用到的API</view>
+            <view class="webapp-intro-content">
+            wx.request、wx.chooseImage、wx.previewImage、wx.saveFile、wx.setStorage、wx.getStorage、wx.clearStorage、wx.getStorageInfo、wx.getLocation、wx.setNavigationBarTitle、wx.navigateTo、wx.redirectTo、wx.login
+            </view>
+        </view>
+    </view>
+</view>

@@ -1,0 +1,79 @@
+{
+"count": 20,
+"start": 0,
+"total": 1,
+"subjects": [
+{
+"rating": {
+"max": 10,
+"average": 9.2,
+"stars": "45",
+"min": 0
+},
+"genres": [
+"剧情",
+"传记",
+"运动"
+],
+"title": "摔跤吧！爸爸",
+"casts": [
+{
+"alt": "https://movie.douban.com/celebrity/1031931/",
+"avatars": {
+"small": "https://img1.doubanio.com/img/celebrity/small/13628.jpg",
+"large": "https://img1.doubanio.com/img/celebrity/large/13628.jpg",
+"medium": "https://img1.doubanio.com/img/celebrity/medium/13628.jpg"
+},
+"name": "阿米尔·汗",
+"id": "1031931"
+},
+{
+"alt": "https://movie.douban.com/celebrity/1372457/",
+"avatars": {
+"small": "https://img1.doubanio.com/img/celebrity/small/1493121366.9.jpg",
+"large": "https://img1.doubanio.com/img/celebrity/large/1493121366.9.jpg",
+"medium": "https://img1.doubanio.com/img/celebrity/medium/1493121366.9.jpg"
+},
+"name": "法缇玛·萨那·纱卡",
+"id": "1372457"
+},
+{
+"alt": "https://movie.douban.com/celebrity/1372458/",
+"avatars": {
+"small": "https://img3.doubanio.com/img/celebrity/small/1493121856.81.jpg",
+"large": "https://img3.doubanio.com/img/celebrity/large/1493121856.81.jpg",
+"medium": "https://img3.doubanio.com/img/celebrity/medium/1493121856.81.jpg"
+},
+"name": "桑亚·玛荷塔",
+"id": "1372458"
+}
+],
+"collect_count": 266527,
+"original_title": "Dangal",
+"subtype": "movie",
+"directors": [
+{
+"alt": "https://movie.douban.com/celebrity/1366907/",
+"avatars": {
+"small": "https://img3.doubanio.com/img/celebrity/small/1484120321.24.jpg",
+"large": "https://img3.doubanio.com/img/celebrity/large/1484120321.24.jpg",
+"medium": "https://img3.doubanio.com/img/celebrity/medium/1484120321.24.jpg"
+},
+"name": "涅提·蒂瓦里",
+"id": "1366907"
+}
+],
+"year": "2016",
+"images": {
+"small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2457983084.webp",
+"large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2457983084.webp",
+"medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2457983084.webp"
+},
+"alt": "https://movie.douban.com/subject/26387939/",
+"id": "26387939"
+}
+],
+"title": "搜索 \"摔跤吧\" 的结果"
+}
+下载JSON数据格式化折叠所有
+复制|删除
